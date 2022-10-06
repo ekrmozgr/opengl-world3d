@@ -3,6 +3,7 @@
     - GLFW is used as OpenGL supportive library
     - GLM is used as mathematics library
     - ImGui is used as GUI library
+    - This program was written in class-based OOP concept
     
     - You can navigate the world in FPS mode
     - You can create cube, pyramide, and cylinder in the world
