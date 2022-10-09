@@ -1,8 +1,8 @@
 # 3D World OpenGL
 
-    - GLFW is used as OpenGL supportive library
-    - GLM is used as mathematics library
-    - ImGui is used as GUI library
+    - GLFW was used as OpenGL supportive library
+    - GLM was used as mathematics library
+    - ImGui was used as GUI library
     - This program was written in class-based OOP concept
     
     - You can navigate the world in FPS mode
